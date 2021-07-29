@@ -1,4 +1,35 @@
+/* .........image gryscaling....... */
 .greyimage{
 
     filter: grayscale(100%)
+}
+
+.headercolor {
+
+
+    background-color: #264653;
+}
+
+.buttoncolor{
+
+
+    background-color: #E76F51;
+}
+
+.textcolor{
+
+    color: #E76F51;
+}
+
+
+
+/* .../......Rating color....../.....  */
+
+.starcolor{
+
+    color: orange;
+}
+.empty{
+
+    color: gainsboro;
 }
